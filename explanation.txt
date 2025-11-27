@@ -1,0 +1,2 @@
+EXPLANATION:
+Upload files or select from kaggle_dataset. The app preprocesses text, computes combined TF-IDF features and cosine similarity, then flags pairs above threshold and shows sentence evidence.

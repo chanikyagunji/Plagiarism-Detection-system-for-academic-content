@@ -1,0 +1,5 @@
+REFERENCES:
+1. Manning, R., Raghavan, P., & Schütze, H. - Introduction to Information Retrieval.
+2. Scikit-learn documentation - https://scikit-learn.org
+3. Streamlit documentation - https://streamlit.io
+4. Python-docx and PyPDF2 docs.

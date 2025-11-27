@@ -1,0 +1,2 @@
+DATASET:
+Included a simulated "Kaggle-like" dataset of 20 text files (kaggle_dataset/). Files include original, paraphrased and slightly modified versions to demonstrate plagiarism detection.

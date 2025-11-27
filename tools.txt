@@ -1,0 +1,2 @@
+TOOLS:
+Python 3.8+, Streamlit, scikit-learn, pandas, numpy, python-docx, PyPDF2

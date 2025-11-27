@@ -1,0 +1,4 @@
+ALGORITHMS:
+1. Combined TF-IDF (word 1-2 grams + char 3-5 grams)
+2. Cosine Similarity
+3. Sequence Matching (difflib) for sentence-level evidence

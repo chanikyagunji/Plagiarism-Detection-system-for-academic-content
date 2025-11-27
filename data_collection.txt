@@ -1,0 +1,2 @@
+DATA COLLECTION:
+Dataset is assembled from self-written paragraphs, open-license samples (Wikipedia), and manually paraphrased files to simulate different types of plagiarism.

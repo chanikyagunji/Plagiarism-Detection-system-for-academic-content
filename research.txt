@@ -1,0 +1,2 @@
+RESEARCH:
+Plagiarism detection methods evaluated: TF-IDF vectorization, cosine similarity, char n-grams, and sequence matching for sentence evidence.
